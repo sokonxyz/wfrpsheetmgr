@@ -1,0 +1,1 @@
+# WFRP character sheet manager
